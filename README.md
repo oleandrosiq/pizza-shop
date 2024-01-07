@@ -2,7 +2,7 @@
 
 Dashboard para gestão do estabelecimento e controle de pedidos estilo iFood.
 
-##### Deploy: <a href="">Acessar demo</a>
+##### Deploy: <a href="https://pizza-shop-sable.vercel.app/" target="_blank">Acessar demo</a>
 
 ## 🎨 Preview
 
