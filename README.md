@@ -1,6 +1,6 @@
 # 🍕Pizza Shop🍕
 
-Dashboard para gestão do estabelecimento e controle de pedidos estilo iFood.
+Dashboard para gestão do estabelecimento e controle de pedidos.
 
 ##### Deploy: <a href="https://pizza-shop-sable.vercel.app/" target="_blank">Acessar demo</a>
 
